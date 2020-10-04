@@ -1,2 +1,2 @@
-person_name, name, brand_name, alcohol_by_volume_percentage, drink_type, is_this_good
+person_name, drink_name, brand_name, alcohol_by_volume_percentage, drink_type, is_this_good
 Bahdah Shin, Niagara New York, Thousand Islands Winery, 11, wine, true
