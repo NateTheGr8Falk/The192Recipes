@@ -1,27 +1,28 @@
 {
-"food_name": "Pig Fire Meat",
-"ingredients": {
-                  "pork": "300g",
-                  "onions": "2",
-                  "scallion": "1",
-                  "tasty soy sauce": "4 spoons",
-                  "honey": "3 spoons",
-                  "minced garlic": "2 spoons",
-                  "salt": "pinch",
-                  "Sesame oil": "1 spoon",
-                  "pepper": "pinch",
-                  "rice wine": "2 spoon",
-                  "red pepper flakes": "1 spoon",
-                  "red pepper paste": "3 spoon",
-                  "green plum juice": "2 spoon",
-                  "ginger powder": "one teaspoon",
-                  "cooking oil": "some"
-               },
-"directions": [
-                "make the sauce",
-                "put the sliced pork in the sauce",
-                "shake the mix",
-                "cook the marinated pork",
-                "put some sliced scallion on top at the end of cooking"
-              ]
+  "food_name": "Pig Fire Meat",
+  "origin_food_name": "돼지불고기",
+  "ingredients": {
+                    "pork": "300g",
+                    "onions": "2",
+                    "scallion": "1",
+                    "tasty soy sauce": "4 spoons",
+                    "honey": "3 spoons",
+                    "minced garlic": "2 spoons",
+                    "salt": "pinch",
+                    "Sesame oil": "1 spoon",
+                    "pepper": "pinch",
+                    "rice wine": "2 spoon",
+                    "red pepper flakes": "1 spoon",
+                    "red pepper paste": "3 spoon",
+                    "green plum juice": "2 spoon",
+                    "ginger powder": "one teaspoon",
+                    "cooking oil": "some"
+                 },
+  "directions": [
+                  "make the sauce",
+                  "put the sliced pork in the sauce",
+                  "shake the mix",
+                  "cook the marinated pork",
+                  "put some sliced scallion on top at the end of cooking"
+                ]
 }
